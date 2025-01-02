@@ -48,3 +48,7 @@ Everything about Android Development
 - [Do Android Developer earn enough? KMP, AR apps, resume and more..](https://youtu.be/RGqjDpCmN_s?si=rIL8JmEIGesFi0yg)
 - [How to master Android Development - Android Roadmap - IIIT Jabalpur GDSC - App Mafias Podcast](https://youtu.be/36bWVehKpEg?si=y-1ALdvUm-VLWT-8)
 
+
+<h2 align="center">Android Development Threads:</h2>
+
+- [Why do Android Apps lag? - Garbage Collection Explained](https://x.com/Hitesh__kohli/status/1874858120083869708)
