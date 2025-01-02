@@ -31,7 +31,8 @@ Everything about Android Development
 
 <h2 align="center">Android Basics:</h2>
 
-- [How do viewmodels work internally](https://youtu.be/hB2R1v-xPbA?si=NWdskUqdu0ehw3qN)
+- [How do viewmodels work internally - 1](https://youtu.be/hB2R1v-xPbA?si=NWdskUqdu0ehw3qN)
+- [How does ViewModel work internally? - 2](https://t.co/hP3vRqW4lh)
 
   <h2 align="center">Podcasts:</h2>
 
