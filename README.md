@@ -55,3 +55,4 @@ Everything about Android Development
 
 - [Why do Android Apps lag? - Garbage Collection Explained](https://x.com/Hitesh__kohli/status/1874858120083869708)
 - [Inline Functions Non Local Returns Explained](https://x.com/Hitesh__kohli/status/1911322682559246506)
+- [2 years of Android Development summarized](https://x.com/Hitesh__kohli/status/1914358633535561876)
