@@ -36,7 +36,7 @@ Everything about Android Development
 - [How does ViewModel work internally? - 2](https://t.co/hP3vRqW4lh)
 
   <h2 align="center">Podcasts:</h2>
-
+- [SDE 2 explains how to become a better Android Developer](https://youtu.be/mdGQ2rc1OUc)
 - [Senior Android Engineer Reveals Secrets to Becoming UNDENIABLE in the Market](https://youtu.be/pdBMN_HrzFI?si=fPcoeYwVlrMknh_9)
 - [Nord VPN's Android Developer Tips to get hired in this market](https://youtu.be/XOPGjOA9Tic?si=oNrXHVqEVOqAmpvO)
 - [How to get so good as an Android Developer you are undeniable](https://youtu.be/R4fIstV8xqY?si=H6g6nP9LMjfhiBAS)
