@@ -36,6 +36,7 @@ Everything about Android Development
 - [How does ViewModel work internally? - 2](https://t.co/hP3vRqW4lh)
 
   <h2 align="center">Podcasts:</h2>
+- [IOS Developer answers "How to get hired as an IOS Developer"](https://youtu.be/vVFyY80LuhE?si=0OGD-Ykh6_ozyu9k)
 - [SDE 2 explains how to become a better Android Developer](https://youtu.be/mdGQ2rc1OUc)
 - [Senior Android Engineer Reveals Secrets to Becoming UNDENIABLE in the Market](https://youtu.be/pdBMN_HrzFI?si=fPcoeYwVlrMknh_9)
 - [Nord VPN's Android Developer Tips to get hired in this market](https://youtu.be/XOPGjOA9Tic?si=oNrXHVqEVOqAmpvO)
@@ -50,9 +51,9 @@ Everything about Android Development
 - [Do Android Developer earn enough? KMP, AR apps, resume and more..](https://youtu.be/RGqjDpCmN_s?si=rIL8JmEIGesFi0yg)
 - [How to master Android Development - Android Roadmap - IIIT Jabalpur GDSC - App Mafias Podcast](https://youtu.be/36bWVehKpEg?si=y-1ALdvUm-VLWT-8)
 
+<h2 align="center">App Threads:</h2>
 
-<h2 align="center">Android Development Threads:</h2>
-
+- [Key differences between Android and IOS Design](https://x.com/Hitesh__kohli/status/1918953942714630498)
 - [Why do Android Apps lag? - Garbage Collection Explained](https://x.com/Hitesh__kohli/status/1874858120083869708)
 - [Inline Functions Non Local Returns Explained](https://x.com/Hitesh__kohli/status/1911322682559246506)
 - [2 years of Android Development summarized](https://x.com/Hitesh__kohli/status/1914358633535561876)
