@@ -22,6 +22,8 @@ Everything about Android Development
 - [Learn Kotlin with me - 13](https://youtu.be/jM6rCns_jFY?si=h_p8JlqJGXaAkECS)
 - [Learn Kotlin with me - 14](https://youtu.be/MgNEs-2h7wM?si=1-gQIrN48BNs7LAJ)
 - [Learn Kotlin with me - Inline Functions Features](https://youtu.be/Dn7hSILT8WI)
+- [Learn Kotlin with me - Companion Objects](https://youtu.be/4xgndkWmZCQ)
+
 
 <h2 align="center">Developer Growth:</h2>
 
@@ -57,3 +59,4 @@ Everything about Android Development
 - [Why do Android Apps lag? - Garbage Collection Explained](https://x.com/Hitesh__kohli/status/1874858120083869708)
 - [Inline Functions Non Local Returns Explained](https://x.com/Hitesh__kohli/status/1911322682559246506)
 - [2 years of Android Development summarized](https://x.com/Hitesh__kohli/status/1914358633535561876)
+- [Learn Kotlin with me - Companion Objects](https://x.com/Hitesh__kohli/status/1921930436420256199)
