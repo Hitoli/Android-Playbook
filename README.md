@@ -37,7 +37,10 @@ Everything about Android Development
 - [How do viewmodels work internally - 1](https://youtu.be/hB2R1v-xPbA?si=NWdskUqdu0ehw3qN)
 - [How does ViewModel work internally? - 2](https://t.co/hP3vRqW4lh)
 
+- [How does ViewModel work internally? - 2](https://t.co/hP3vRqW4lh)
+
 <h2 align="center">Android Interview Questions:</h2>
+
 - [Android Interview Question - Concurrency vs Parallelism](https://youtu.be/2WKrU7Min4o)
 
   <h2 align="center">Podcasts:</h2>
